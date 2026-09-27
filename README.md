@@ -52,9 +52,7 @@ For 60-pin Famicom cartridges only. 72-pin NES cartridges do not fit.
 famicom-rom-dumper/
 ├── README.md
 ├── LICENSE
-├── hardware/
-│   ├── kicad/          KiCad 10 プロジェクト / KiCad project
-│   ├── production/     ガーバー・BOM・回路図PDF / Gerbers, BOM, schematic PDF
+├── hardware/           Kicadの回路図,ガーバーデータ
 │   └── ERRATA.md       rev1の既知の問題 / Known issues in rev1
 ├── firmware/           ESP32ファーム（PlatformIO） / ESP32 firmware
 ├── tools/              PC側ダンプスクリプト / Host-side dump script
