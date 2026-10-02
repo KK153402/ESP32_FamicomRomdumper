@@ -96,7 +96,7 @@ OK: game.nes (40976 bytes)  PRG+CHR CRC32=D445F698
 | シフトレジスタ（入力） | CD74HCT165M | 2 | データ読み出し16本 / Data in |
 | バッファ | SN74AHCT244 | 1 | 制御線6本 3.3 V → 5 V / Control lines |
 | レベル変換 | SN74LVC1T45 | 3 | 5 V → 3.3 V（MISO、CIRAM 2本） |
-| コネクタ | ファミコン60ピン 2.54 mmピッチ | 1 | カセットスロット / Cartridge slot |
+| コネクタ | ファミコン60ピン 2.54 mmピッチ | 1 | カセットスロット / Cartridge slot<br>[購入先 / Source (AliExpress)](https://ja.aliexpress.com/item/1005006124592648.html) |
 
 全部品表と接続は [docs/hardware.md](docs/hardware.md) にあります。
 The full BOM and netlist are in [docs/hardware.md](docs/hardware.md).
