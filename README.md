@@ -91,7 +91,7 @@ OK: game.nes (40976 bytes)  PRG+CHR CRC32=D445F698
 
 | 部品 / Part | 型番 / Part number | 数 / Qty | 役割 / Role |
 |---|---|---|---|
-| MCU | ESP32-WROOM-32E DevKit（30ピン） | 1 | 制御・USBシリアル / Control, USB serial |
+| MCU | ESP32-WROOM-32E DevKit（30ピン） | 1 | 制御・USBシリアル / Control, USB serial　URL：https://ja.aliexpress.com/item/1005008771142129.html?spm=a2g0o.productlist.main.6.6dc83d53RGPe6w&algo_pvid=33590654-20dd-4552-814f-4d09bc6131f6&algo_exp_id=33590654-20dd-4552-814f-4d09bc6131f6-5&pdp_ext_f=%7B%22order%22%3A%222684%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21JPY%21485%21407%21%21%2120.19%2116.94%21%402140ec2d17909587041287044e0f77%2112000046602507590%21sea%21JP%213042568723%21X%211%210%21n_tag%3A-29919%3Bd%3A5c8fe142%3Bm03_new_user%3A-29895%3BpisId%3A5000000218885134&curPageLogUid=D1ZQcJyiMkLP&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008771142129%7C_p_origin_prod%3A |
 | シフトレジスタ（出力） | SN74AHCT595D | 6 | アドレス29本 + データ書き込み16本 / Address and data out |
 | シフトレジスタ（入力） | CD74HCT165M | 2 | データ読み出し16本 / Data in |
 | バッファ | SN74AHCT244 | 1 | 制御線6本 3.3 V → 5 V / Control lines |
