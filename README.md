@@ -6,7 +6,7 @@ ESP32と汎用ロジックICで作る、ファミコン（Family Computer）カ�
 A Famicom cartridge ROM dumper built with an ESP32 and standard 74-series logic.
 Dumps are saved in iNES format (`.nes`) and boot directly in emulators such as Mesen.
 
-![基板の外観](images/接続_現物.jpg)
+![基板の外観](images/接続_現物.png)
 <!-- 基板写真 / board photo -->
 <!-- ![board](docs/images/board.jpg) -->
 
