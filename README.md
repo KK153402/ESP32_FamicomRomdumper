@@ -91,7 +91,7 @@ OK: game.nes (40976 bytes)  PRG+CHR CRC32=D445F698
 
 | 部品 / Part | 型番 / Part number | 数 / Qty | 役割 / Role |
 |---|---|---|---|
-| MCU | ESP32-WROOM-32E DevKit（30ピン） | 1 | 制御・USBシリアル / Control, USB serial　<br>[購入先 / Source (AliExpress)](https://ja.aliexpress.com/item/1005008771142129.html) |
+| MCU | ESP32-WROOM-32E DevKit（30ピン） | 1 | 制御・USBシリアル / Control, USB serial<br>[購入先 / Source (AliExpress)](https://ja.aliexpress.com/item/1005008771142129.html) |
 | シフトレジスタ（出力） | SN74AHCT595D | 6 | アドレス29本 + データ書き込み16本 / Address and data out |
 | シフトレジスタ（入力） | CD74HCT165M | 2 | データ読み出し16本 / Data in |
 | バッファ | SN74AHCT244 | 1 | 制御線6本 3.3 V → 5 V / Control lines |
